@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Monstera Deliciosa",
+        "image": "https://www.svogabiljagospodar.hr/wp-content/uploads/2022/11/pexels-djaheda-richers-6576800-1920x1200.jpg",
+        "price": "5.20€",
+        "available": true
+    },
+    {
+        "id": 2,
+        "name": "Philodendron White",
+        "image": "https://i0.wp.com/www.woonleng.com/wp-content/uploads/2022/07/FPH28-12HOP-Philo-White-Princess-HOP-B3W35-65-75-2.jpeg?fit=1000%2C1000&ssl=1",
+        "price": "3.50€",
+        "available": true
+    },
+    {
+        "id": 3,
+        "name": "Alocasia",
+        "image": "https://dmp.cz/cdn/shop/files/alocasia-frydek-01_1500x.jpg?v=1698668256",
+        "price": "2.50€",
+        "available": true
+    },
+    {
+        "id": 4,
+        "name": "Ficus Microcarpa Ginseng",
+        "image": "https://www.ures.hr/img/website/product_units/thumbs/shutterstock_1215465226_a_kopija.jpg",
+        "price": "4.50€",
+        "available": true
+    },
+    {
+        "id": 5,
+        "name": "Philodendron Lime",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg8fSYs9xuzHdPwcIOD3xurVKJELBqQbgpEeLB05Fx-mrQ9kiYa-WomE-6mSr2LR0VIzk&usqp=CAU",
+        "price": "4.00€",
+        "available": false
+    },
+    {
+        "id": 6,
+        "name": "Sansiveria Trifasciata",
+        "image": "https://bloomboxclub.com/cdn/shop/products/Sansevieria-laurentii-14cm-ginger_1.jpg?v=1693915429",
+        "price": "5.50€",
+        "available": false
+    }
+]
